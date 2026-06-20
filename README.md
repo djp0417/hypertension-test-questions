@@ -6,14 +6,14 @@ A comprehensive dataset of hypertension test questions based on the **2024 Chine
 
 | File | Type | Questions | Description |
 |------|------|-----------|-------------|
-| `hypertension_essay.csv` | Essay / Short Answer | 51 | Detailed short-answer and essay questions covering etiology, diagnosis, treatment strategies, and special populations |
-| `hypertension_judgment.csv` | True/False | 212 | Binary true/false questions covering the full scope of the 2024 guidelines |
-| `hypertension_objective_questions.csv` | Objective (True/False) | 101 | Concise true/false questions on key guideline knowledge points |
-| `hypertension_objective_questions_2.csv` | Objective (True/False) | 101 | Additional true/false questions with quoted formatting |
+| `hypertension_essay.csv` | Essay / Short Answer | 50 | Detailed short-answer and essay questions covering etiology, diagnosis, treatment strategies, and special populations |
+| `hypertension_judgment.csv` | True/False | 211 | Binary true/false questions covering the full scope of the 2024 guidelines |
+| `hypertension_objective_questions.csv` | Objective (True/False) | 100 | Concise true/false questions on key guideline knowledge points |
+| `hypertension_objective_questions_2.csv` | Objective (True/False) | 100 | Additional true/false questions with quoted formatting |
 | `hypertension_subjective_questions.csv` | Subjective (Short Answer) | 25 | Open-ended questions with detailed multi-point answers |
-| `hypertension_subjective_questions_2.csv` | Subjective (Short Answer) | 26 | Open-ended questions with concise answers and guideline section references |
+| `hypertension_subjective_questions_2.csv` | Subjective (Short Answer) | 25 | Open-ended questions with concise answers and guideline section references |
 
-**Total: 516 questions across 6 files**
+**Total: 511 questions across 6 files**
 
 ## Data Format
 
